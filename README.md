@@ -1,1 +1,1 @@
-This is by far the easiest way to rickroll someone, as long as they don't think it's a rat.
+A simple way to rickroll someone that I made while super bored.
